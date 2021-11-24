@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+
+
+.image {
+  background-image: url(./asmin.jpg);
+  height: 700px;
+  background-size: cover;
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.content {
+  border: 15px solid white;
+  height: 400px;
+  width: 500px;
+  margin: auto;
+  text-align: justify;
+  padding: 20px;
+  margin-left: 90px;
+}
+button {
+  color: white;
+  background-color: red;
+  height: 50px;
+  width: 150px;
+  border-radius: 100px;
+}
